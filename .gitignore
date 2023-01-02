@@ -7,6 +7,7 @@
 
 medium-dev/node_modules
 medium-dev/dist
+medium-dev/sanity.cli.ts
 
 # testing
 /coverage
